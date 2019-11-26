@@ -1,1 +1,2 @@
-# ruby_ternary
+# Conditional Operator
+this is a ternary operator
